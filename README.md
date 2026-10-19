@@ -14,3 +14,4 @@ Este documento presenta un proyecto inspirado en el Solarpunk, una corriente que
 En las siguientes secciones se explica el propósito del proyecto, cómo instalarlo y ponerlo en funcionamiento, así como los pasos necesarios para utilizarlo. También se incluyen los agradecimientos a las personas que han contribuido a su desarrollo. El objetivo es ofrecer una documentación clara y accesible que permita comprender el proyecto y facilite su utilización. 
 
 #
+En las siguientes secciones se explica el propósito del proyecto, cómo instalarlo y ponerlo en funcionamiento, así como los pasos necesarios para utilizarlo. También se incluyen los agradecimientos a las personas que han contribuido a su desarrollo. El objetivo es ofrecer una documentación clara y accesible que permita comprender el proyecto y facilite su utilización.
