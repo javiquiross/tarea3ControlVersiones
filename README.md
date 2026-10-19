@@ -23,8 +23,27 @@ Este documento presenta un proyecto inspirado en el Solarpunk, una corriente que
 
 En las siguientes secciones se explica el propósito del proyecto, cómo instalarlo y ponerlo en funcionamiento, así como los pasos necesarios para utilizarlo. También se incluyen los agradecimientos a las personas que han contribuido a su desarrollo. El objetivo es ofrecer una documentación clara y accesible que permita comprender el proyecto y facilite su utilización. 
 
-#
-En las siguientes secciones se explica el propósito del proyecto, cómo instalarlo y ponerlo en funcionamiento, así como los pasos necesarios para utilizarlo. También se incluyen los agradecimientos a las personas que han contribuido a su desarrollo. El objetivo es ofrecer una documentación clara y accesible que permita comprender el proyecto y facilite su utilización.
+### Instalación
+
+Para instalar y preparar el proyecto, es necesario disponer de las herramientas básicas para descargar el código y configurar el entorno de trabajo. Sigue los siguientes pasos:
+
+1. **Instalar Git:** descarga e instala Git desde la página oficial: https://git-scm.com/.
+
+2. **Instalar Visual Studio Code:** descarga el editor desde https://code.visualstudio.com/.
+
+3. **Clonar el repositorio:** abre una terminal y ejecuta el siguiente comando, sustituyendo URL_DEL_REPOSITORIO por la dirección del repositorio de GitHub:  
+`git clone URL_DEL_REPOSITORIO`
+
+4. **Acceder a la carpeta del proyecto:** entra en el directorio descargado:  
+`cd nombre-del-proyecto`
+
+5. **Abrir el proyecto:** ejecuta el siguiente comando para abrir la carpeta en Visual Studio Code:  
+`code .`
+
+6. **Reparar el entorno:** revisa los archivos y las dependencias necesarias para el proyecto e instálalas siguiendo las indicaciones correspondientes.
+
+Una vez completados estos pasos, el proyecto estará preparado para su configuración y posterior ejecución. Consulta la sección Instrucciones Operacionales para conocer cómo utilizarlo.
+
 
 # El Proyecto
 
@@ -69,4 +88,10 @@ Después de utilizar el proyecto, comprobar el estado de sus componentes, limpia
 - Seguir siempre las medidas de seguridad correspondientes.
 
 **Conclusión:** Para que el proyecto Solarpunk funcione correctamente, es fundamental seguir los pasos de preparación, puesta en marcha, supervisión y mantenimiento. De esta manera, se favorece un uso seguro y eficiente, manteniendo el compromiso del proyecto con la sostenibilidad y el respeto por el medioambiente.
->>>>>>> b78d81c96aa23ffac3da6be784f3c8f9d17e9d10
+
+
+## Agradecimientos
+
+Queremos agradecer a todas las personas que han contribuido, directa o indirectamente, a hacer posible este proyecto. Su colaboración, sus ideas y su compromiso han sido fundamentales para desarrollar una propuesta inspirada en los valores del *Solarpunk*.
+
+También agradecemos a la comunidad de software libre por compartir conocimientos y herramientas que facilitan la creación de proyectos tecnológicos. Esperamos que este trabajo sirva para inspirar nuevas ideas sobre cómo utilizar la tecnología de manera responsable y construir un futuro en el que la innovación, la sostenibilidad y la naturaleza puedan avanzar juntas.
