@@ -1,8 +1,6 @@
 ## Conociendo Solarpunk
 ### El furturo será verde o no será
-<<<<<<< HEAD
-<<<<<<< HEAD
-https://tse4.mm.bing.net/th/id/OIP.vGwFZLT-ro1nK7BAaM1XjgHaH0?r=0&w=1600&h=1690&rs=1&pid=ImgDetMain&o=7&rm=3
+<img src= https://conciencia.eco/wp-content/uploads/2024/02/Desequilibrio-Ecologico-Entendiendo-el-Impacto-Humano-en-la-Ecologia.jpg>
 =======
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_Friedrichstraße_Utopia_2048_small_file.jpg/1280px-Berlin_Friedrichstraße_Utopia_2048_small_file.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/>
