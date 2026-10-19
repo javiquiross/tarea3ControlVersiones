@@ -1,4 +1,4 @@
 ## Conociendo Solarpunk
 ### El furturo será verde o no será
-https://images3.alphacoders.com/902/thumb-1920-902705.jpg
-el nombre de la de la seccion es: gato guapo. Esse gato esta deitado no sofa olhando pra camera.
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_Friedrichstraße_Utopia_2048_small_file.jpg/1280px-Berlin_Friedrichstraße_Utopia_2048_small_file.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/>
