@@ -1,16 +1,17 @@
 ## Conociendo Solarpunk
 ### El furturo será verde o no será
 <img src= https://conciencia.eco/wp-content/uploads/2024/02/Desequilibrio-Ecologico-Entendiendo-el-Impacto-Humano-en-la-Ecologia.jpg>
-=======
+
+
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_Friedrichstraße_Utopia_2048_small_file.jpg/1280px-Berlin_Friedrichstraße_Utopia_2048_small_file.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/>
->>>>>>> c0164da9b65904cff9d62e6bb649b12ef5d84f72
 
- #Este documento tiene como objetivo introducir y desarrollar los aspectos principales de la materia abordada, proporcionando una visión general de su contenido, sus objetivos y su estructura. A través de sus diferentes secciones, se presentan los conceptos relevantes y se organiza la información de manera coherente, con el fin de facilitar su comprensión y ofrecer una visión conjunta del trabajo realizado.
+
+ # Este documento tiene como objetivo introducir y desarrollar los aspectos principales de la materia abordada, proporcionando una visión general de su contenido, sus objetivos y su estructura. A través de sus diferentes secciones, se presentan los conceptos relevantes y se organiza la información de manera coherente, con el fin de facilitar su comprensión y ofrecer una visión conjunta del trabajo realizado.
 
 A continuación, se describen los distintos apartados que componen el documento, siguiendo una estructura que permite comprender el tema de forma progresiva y relacionar los contenidos tratados con los objetivos planteados.
 =======
-https://images3.alphacoders.com/902/thumb-1920-902705.jpg
+
 | Presentación | El proyecto | Instalación   | Instrucciones Operacionales | Agradecimientos   |
 |:---------:|:-------------:|:----------:|:-------------:|:----------:|
 | Introducción al concepto Solarpunk  |   Descripción general  |  Requisitos y materiales necesarios | Puesta en marcha   |  Instituciones y comunidades colaboradoras |
